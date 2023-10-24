@@ -1,0 +1,7 @@
+STEP 1 : Run LibraryManagmentQuery.sql in MSSQL
+STEP 2 : Change the server in the connection string from the file "App.config" and "LibraryManagementContext"
+STEP 3 : Run the application
+STEP 4 : Sign Up with new users 
+
+
+ENJOY THE TIME WITH HUMBER LIBRARY MANAGMENT!! 
